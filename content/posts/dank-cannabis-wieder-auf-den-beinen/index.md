@@ -18,7 +18,7 @@ THC besitzt eine schmerzlindernde, krampflösende und appetitstimulierende Wirku
 
 CBD wirkt vor allen Dingen beruhigend und antientzündlich. Es wird bei Epilepsie, Übelkeit und Erbrechen, Stress, Schlafstörungen, sowie Psychosen eingesetzt und kann sogar die psychoaktive Wirkung anderer Stoffe wie z.B. THC lindern. Deshalb werden auch oft Gemische der beiden Wirkstoffe eingesetzt. 
 
-> *«Es war nichts mehr möglich!»*
+> *«Es war nichts mehr möglich!» - Marie, Patientin mit chronischen Muskelkrämpfen*
 
 Bevor Maries Beschwerden auftraten, pflegte sie viele Hobbies. «Ich habe Gesangs- und Klavierstunden genommen und habe auch Geige gespielt. Mit Klavierbegleitung bin ich aufgetreten.», erzählt sie. Reisen, Ausflüge, das alles war längst Vergangenheit für Marie. «Es war nichts mehr möglich!». Zahlreiche Untersuchungen und Arztbesuche halfen nicht die Ursache der Beschwerden aufzuklären. «Sämtliche Medikamente und Therapien hatten bei mir keine Wirkung gezeigt» schildert sie. Marie war kurz davor, die Hoffnung zu verlieren. Doch als sie an ihrem Esstisch sass und durch eine Zeitung blätterte, weckte etwas ihre Aufmerksamkeit. Das würde ihr Leben verändern! Auf der letzten Seite befand sich Werbung für Cannabis-Öl, das bei chronischen Schmerzen, wie Marie sie hatte, Wunder wirken soll. 
 
