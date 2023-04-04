@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["cannabis", "cannabisindermedizin", "THC", "CBD"]
 image = "apotheke.jpg"
-description = "Marie (*Name geändert) leidet unter chronischen Muskelkrämpfen. Wie auch in ihrem Fall gibt es Beschwerden und Krankheiten, bei denen herkömmliche Therapien keine Wirkung zeigen. Cannabis kann diesbezüglich jedoch Wunder wirken. Soll es also bereits früher in der Therapie eingesetzt werden?"
+description = "Marie leidet unter chronischen Muskelkrämpfen. Wie auch in ihrem Fall gibt es Beschwerden und Krankheiten, bei denen herkömmliche Therapien keine Wirkung zeigen. Cannabis kann diesbezüglich jedoch Wunder wirken. Soll es also bereits früher in der Therapie eingesetzt werden?"
 +++
 Als Marie am Mittag in der Küche stand und das Essen für ihren Mann und ihre Kinder zubereitete, spürte sie plötzlich ein kräftiges, sehr schmerzhaftes Ziehen in ihrer Wade, ein wenig oberhalb des Knöchels. Der Muskel wurde hart. Eine falsche Bewegung und die nächste Schmerzwelle war da. So hatte alles angefangen. Mit der Zeit waren solche mühsamen Muskelkrämpfe Teil ihres Alltags geworden. Sie traten in verschiedenen Körperbereichen auf und waren manchmal so stark, dass sie nicht mehr stehen konnte und sich gleich hinlegen musste. Bei Beginn ihrer Beschwerden war Maries Körpertemperatur stark angestiegen und pendelte sich schliesslich bei einer Temperatur im Fieberbereich ein. «Ich hatte das Gefühl, immer eine Grippe zu haben», erzählt sie. 
 
