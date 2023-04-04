@@ -30,7 +30,7 @@ Der behandelnde Arzt stellt die Indikation für eine Behandlung mit einem Cannab
 
 Durch Rücksprache mit einer spezialisierten Apotheke, wie der Bahnhofapotheke Langnau, wo auch Marie ihr Cannabis-Öl besorgt, werden mögliche Interaktionen mit bestehenden anderen Medikamenten ausgeschlossen und das zum Einsatz kommende Präparat und die Startdosis wird definiert. «\[…] seit dem 1. August 2022 kann jeder Arzt, jede Ärztin, die befugt ist, Betäubungsmittel zu verschreiben, Cannabishaltige Produkte verschreiben und diese können dann wie jedes andere Medikament in der Apotheke abgeholt werden.», informiert uns Andrea Robbi, Apotheker in der Bahnhofapotheke Langnau bei einem Interview. Auch die Kostenfrage muss geklärt werden, denn Medizinal-Cannabis-Präparate sind sehr teuer. «Damit die Krankenkasse die Kosten übernimmt, muss ein Kostengutsprachegesuch gestellt werden. In der Regel übernehmen die Krankenkassen die Therapiekosten nur dann, wenn aus Sicht des Vertrauensarztes bereits sämtliche schulmedizinischen Massnahmen ausgeschöpft wurden und erfolglos oder zu wenig erfolgreich waren.», erklärt uns Frau Dr. Voggel. 
 
-![Quelle: Website der Bahnhofapotheke Langnau ](apotheke.jpg "Verkaufsraum der Bahnhofapotheke Langnau")
+![Verkaufsraum der Bahnhofapotheke Langnau, Quelle: Website der Bahnhofapotheke Langnau ](apotheke.jpg)
 
 # Der Wirkmechanismus von Cannabis
 
