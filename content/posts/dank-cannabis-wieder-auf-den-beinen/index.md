@@ -4,8 +4,11 @@ date = "2023-04-03"
 draft = false
 pinned = false
 tags = ["cannabisindermedizin"]
+image = "apotheke.jpg"
 +++
-###### Marie (*Name geändert) leidet unter chronischen Muskelkrämpfen. Wie auch in ihrem Fall gibt es Beschwerden und Krankheiten, bei denen herkömmliche Therapien keine Wirkung zeigen. Cannabis kann diesbezüglich jedoch Wunder wirken. Soll es also bereits früher in der Therapie eingesetzt werden?
+##### Marie (*Name geändert) leidet unter chronischen Muskelkrämpfen. Wie auch in ihrem Fall gibt es Beschwerden und Krankheiten, bei denen herkömmliche Therapien keine Wirkung zeigen. Cannabis kann diesbezüglich jedoch Wunder wirken. Soll es also bereits früher in der Therapie eingesetzt werden?
+
+
 
 Als Marie am Mittag in der Küche stand und das Essen für ihren Mann und ihre Kinder zubereitete, spürte sie plötzlich ein kräftiges, sehr schmerzhaftes Ziehen in ihrer Wade, ein wenig oberhalb des Knöchels. Der Muskel wurde hart. Eine falsche Bewegung und die nächste Schmerzwelle war da. So hatte alles angefangen. Mit der Zeit waren solche mühsamen Muskelkrämpfe Teil ihres Alltags geworden. Sie traten in verschiedenen Körperbereichen auf und waren manchmal so stark, dass sie nicht mehr stehen konnte und sich gleich hinlegen musste. Bei Beginn ihrer Beschwerden war Maries Körpertemperatur stark angestiegen und pendelte sich schliesslich bei einer Temperatur im Fieberbereich ein. «Ich hatte das Gefühl, immer eine Grippe zu haben», erzählt sie. 
 
@@ -29,11 +32,9 @@ Durch Rücksprache mit einer spezialisierten Apotheke, wie der Bahnhofapotheke L
 
 ![Quelle: Website der Bahnhofapotheke Langnau ](apotheke.jpg "Verkaufsraum der Bahnhofapotheke Langnau")
 
-```
 # Der Wirkmechanismus von Cannabis
 
-[](<>)Cannabis hat eine komplexe Wirkung auf den Körper, die von Person zu Person variieren kann. Das Wort «Cannabinoid» kennen die meisten Menschen nur im Kontext mit Cannabis, doch auch der Körper produziert eine Reihe von Cannabinoiden sogenannten Endocannabinoiden. Dies sind körpereigene Moleküle, die nicht aus der Umwelt aufgenommen werden. «Endo» ist aus dem griechischen abgeleitet und bedeutet so viel wie «innen» und in diesem Kontext «körpereigen». THC und CBD wirken auf die gleichen Rezeptoren in unserem Körper wie die Endocannabinoide. Wenn also THC und CBD solchen Rezeptoren andocken, werden die gleichen Effekte ausgelöst, die eigentlich unsere Endocannabinoide auslösen. Dazu gehören z.B. Schmerzlinderung, Appetitstimulierung, Erholung von Stress, Reduktion von Entzündungen und Überreaktion von Nervenzellen. Im Hirnstamm, der für die Kontrolle elementarer Lebensfunktionen wie Atmung und Herzaktivität verantwortlich ist, ist die Konzentration der Rezeptoren sehr niedrig. Deshalb können Cannabinoide die Hirnstammfunktionen auch nicht schädigen und es gibt keine letale (=tödliche) Dosis. Obwohl THC und CBD sehr ähnlich aufgebaut sind, kann CBD die Rezeptoren nicht auf die gleiche Weise aktivieren wie THC. Die Wirkweise von CBD ist nur unzureichend erforscht und es ist noch nicht sicher, wie genau der Wirkstoff CBD seine Wirkung entfaltet.
-```
+[](<>)Cannabis hat eine komplexe Wirkung auf den Körper, die von Person zu Person variieren kann. Das Wort «Cannabinoid» kennen die meisten Menschen nur im Kontext mit Cannabis, doch auch der Körper produziert eine Reihe von Cannabinoiden sogenannten Endocannabinoiden. Dies sind körpereigene Moleküle, die nicht aus der Umwelt aufgenommen werden. «Endo» ist aus dem griechischen abgeleitet und bedeutet so viel wie «innen» und in diesem Kontext «körpereigen». THC und CBD wirken auf die gleichen Rezeptoren in unserem Körper wie die Endocannabinoide. Wenn also THC und CBD solchen Rezeptoren andocken, werden die gleichen Effekte ausgelöst, die eigentlich unsere Endocannabinoide auslösen. Dazu gehören z.B. Schmerzlinderung, Appetitstimulierung, Erholung von Stress, Reduktion von Entzündungen und Überreaktion von Nervenzellen. Im Hirnstamm, der für die Kontrolle elementarer Lebensfunktionen wie Atmung und Herzaktivität verantwortlich ist, ist die Konzentration der Rezeptoren sehr niedrig. Deshalb können Cannabinoide die Hirnstammfunktionen auch nicht schädigen und es gibt keine letale (=tödliche) Dosis. Obwohl THC und CBD sehr ähnlich aufgebaut sind, kann CBD die Rezeptoren nicht auf die gleiche Weise aktivieren wie THC. Die Wirkweise von CBD ist nur unzureichend erforscht und es ist noch nicht sicher, wie genau der Wirkstoff CBD seine Wirkung entfaltet. 
 
 > *«Dadurch wurde auch mein Lebensmut wieder geweckt» - Marie, Patientin mit chronischen Muskelkrämpfen*
 
