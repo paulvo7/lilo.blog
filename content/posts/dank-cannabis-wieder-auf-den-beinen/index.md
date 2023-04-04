@@ -3,7 +3,7 @@ title = "Dank Cannabis wieder auf den Beinen"
 date = "2023-04-03"
 draft = false
 pinned = false
-tags = ["cannabis", "cannabisindermedizin", "THC", "CBD", ""]
+tags = ["cannabis", "cannabisindermedizin", "THC", "CBD"]
 image = "apotheke.jpg"
 +++
 ##### Marie (*Name geändert) leidet unter chronischen Muskelkrämpfen. Wie auch in ihrem Fall gibt es Beschwerden und Krankheiten, bei denen herkömmliche Therapien keine Wirkung zeigen. Cannabis kann diesbezüglich jedoch Wunder wirken. Soll es also bereits früher in der Therapie eingesetzt werden?
